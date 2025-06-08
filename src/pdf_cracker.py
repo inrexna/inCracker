@@ -1,4 +1,3 @@
-# src/pdf_cracker.py
 import pikepdf
 from src.core import logger, load_wordlist, print_progress, write_result_to_file
 

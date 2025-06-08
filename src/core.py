@@ -1,4 +1,3 @@
-# src/core.py
 import time
 import sys
 import os

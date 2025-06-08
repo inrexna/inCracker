@@ -1,4 +1,3 @@
-# src/office_cracker.py
 import msoffcrypto
 import io
 from src.core import logger, load_wordlist, print_progress, write_result_to_file

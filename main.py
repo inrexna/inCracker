@@ -1,4 +1,3 @@
-# main.py
 import argparse
 from src.pdf_cracker import crack_pdf
 from src.zip_cracker import crack_zip

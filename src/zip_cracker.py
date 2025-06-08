@@ -1,4 +1,3 @@
-# src/zip_cracker.py
 import zipfile
 from src.core import logger, load_wordlist, print_progress, write_result_to_file
 
